@@ -14,3 +14,7 @@
 | ile osób uznało opinię za nieprzydatną | unusefull\_count | button.vote-no[data-total-vote]button.vote-no \> span |
 | treść opinii | content | div.user-post\_\_text |
 | listę zalet | pros | div.review-feature\_\_title--positives ~ div.review
+
+## Wykorzystanie bibliotek
+s
+s
