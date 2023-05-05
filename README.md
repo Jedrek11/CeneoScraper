@@ -15,6 +15,6 @@
 | treść opinii | content | div.user-post\_\_text |
 | listę zalet | pros | div.review-feature\_\_title--positives ~ div.review
 
-## Wykorzystanie bibliotek
+## Wykorzystanie bibliotek Python
 - Requests
 - BeautifulSoup4
