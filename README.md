@@ -16,5 +16,5 @@
 | listę zalet | pros | div.review-feature\_\_title--positives ~ div.review
 
 ## Wykorzystanie bibliotek
-Requests
-BeautifulSoup4
+- Requests
+- BeautifulSoup4
