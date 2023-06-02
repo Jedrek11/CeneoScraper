@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import numpy as np
+import _json
 from matplotlib import pyplot as plt
 
 try:
@@ -60,5 +61,5 @@ stats['stars'] = stars.to_dict()
 stats['recommendation'] = recommendation.to_dict()
 
 print(stats)
-with open(f"stats/{product_code}.json", "w" encoding="UTF-8") as jf:
+with open(f"stats/{product_code}.json", "w", encoding="UTF-8") as jf:
     json.dump(stats, jf, indent=4, ensure_ascii=False)
